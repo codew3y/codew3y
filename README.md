@@ -20,7 +20,6 @@ I build Next.js and React interfaces, the APIs behind them, PostgreSQL databases
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
 **Frontend & Backend**
 
@@ -47,6 +46,11 @@ I build Next.js and React interfaces, the APIs behind them, PostgreSQL databases
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+**AI Tooling**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
 
 ---
 

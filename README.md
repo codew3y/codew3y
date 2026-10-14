@@ -7,7 +7,7 @@
 I build Next.js and React interfaces, the APIs behind them, PostgreSQL databases, and integrations that connect applications to AI tools.
 
 - 💼 CRM Developer Associate at **Manentia Enterprise Support PH Inc.**, where I build business automation, CRM-driven document generation and secure REST/OAuth 2.0 integrations
-- 🤖 I work with **Model Context Protocol (MCP)** connectors on Microsoft Azure
+- 🤖 I build **AI integrations**, including **MCP** connectors and tools that connect apps to LLMs
 - 🎓 BS Information Technology, Pampanga State University (2022–2026)
 - 🌐 Portfolio: [wencetongol.vercel.app](https://wencetongol.vercel.app)
 
